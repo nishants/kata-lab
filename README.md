@@ -1,2 +1,2 @@
 # kata-lab
-spike for browser based runtime for conducting kata sessoins on ruby.
+browser based ide for conducting kata sessoins on ruby.
